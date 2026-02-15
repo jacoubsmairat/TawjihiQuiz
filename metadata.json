@@ -1,0 +1,7 @@
+{
+  "name": "TawjihiQuiz",
+  "description": "A comprehensive Jordanian Tawjihi exam platform featuring advanced question management, role-based access control, and a robust exam engine with real-time analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
